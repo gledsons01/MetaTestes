@@ -1,0 +1,9 @@
+1 - Coloque o projeto TesteMeta como projeto inicial.
+2 - Existem na API foram colocados os CRUD's, portando existem as seguintes funcionalidades.
+2.A - GetAll Lista todos os itens.
+2.B - Get(dTruck) Pega informações de acordo com o IdTruck
+2.C - Put - inserir dados do caminhão;
+2.D - Post - Edição de dados do caminhão;
+2.E - Delete - deletar dados do caminhão.
+
+Para a operação ter cido realizada com sucesso, retorno do código será Ok - 200 e para quais erro, será informado 404 com descritivo do erro.
